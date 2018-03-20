@@ -1,7 +1,7 @@
 Instructions for compilation of the server and client source code:
 
 
-Server side (applicable for both UDP & TCP)
+Server side
 
 Execution command:
 ~$ makefile 
@@ -15,7 +15,7 @@ d. (optional check) "-h help" will print out how to run the executable
 
 
 
-Client side (applicable for all clients)
+Client side
 
 Execution command:
 ~$ makefile 
